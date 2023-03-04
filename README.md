@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Software Engineer at **GeekyAnts**
 
-- 🌱 I’m currently learning **Native Android**
+- 🌱 I’m planning to learn **Go**
 
 - 👯 I’m looking to collaborate for **React, React-Native projects**
 
