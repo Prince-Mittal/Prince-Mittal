@@ -5,9 +5,7 @@
 -->
 <h1 align="center">Hi 👋, I'm Prince Mittal🚀</h1>
 
-- 🔭 I’m currently working as a Software Engineer at **GeekyAnts**
-
-- 🌱 I’m planning to learn **Go**
+- 🔭 I’m currently working as a Senior Software Engineer at **Locad**
 
 - 👯 I’m looking to collaborate for **React, React-Native projects**
 
